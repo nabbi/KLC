@@ -1,5 +1,6 @@
 # KLC
-[Kismet](https://github.com/kismetwireless/kismet) Logfile Combine script for 802.11 Wi-Fi wardriving
+[Kismet](https://github.com/kismetwireless/kismet) Log Combiner for 802.11 Wi-Fi wardriving
+This combines and consolidates [KLV](http://www.mindflip.org/klv/) outputs from multiple collections into one report
 
 # References
 

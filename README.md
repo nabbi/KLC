@@ -4,6 +4,7 @@
 This works differently than the klc.pl included with [KLV](http://www.mindflip.org/klv/) as it consolidates and merges data from multiple Kismet outputs
 
 # References
+Cardinal Rules Of Wardriving FAQ
 
 [ 13. There is a great KLC script written by Nicolas Boet and enhanced by Dutch to combine Kismet logs](https://wigle.net/wiki/index.cgi?action=browse&id=Cardinal_Rules_Of_Wardriving_FAQ&revision=50)
 

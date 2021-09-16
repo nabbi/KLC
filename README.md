@@ -1,6 +1,6 @@
 # KLC
-An alternative [Kismet](https://github.com/kismetwireless/kismet) Log Consolidator for 802.11 Wi-Fi wardriving
-This combines and consolidates [KLV](http://www.mindflip.org/klv/) outputs from multiple collections into one report
+[Kismet](https://github.com/kismetwireless/kismet) Log Consolidator for 802.11 Wi-Fi wardriving
+This works diffenrtly than the klc.pl included with [KLV](http://www.mindflip.org/klv/) as it consolidates and merges data from multiple Kismet outputs
 
 # References
 
